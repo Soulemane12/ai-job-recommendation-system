@@ -1,0 +1,64 @@
+ 
+ Soulemane Sow  
+US Citizen | 14soulemanesow @gmail .com | ( 347) -544-5527 | LinkedIn: linkedin.com/in/soulemane -sow-731ab1281 | 
+GitHub: Soulemane12  
+EDUCATION      
+Manhattan Center for Science and Mathematics                           New York , New 
+York  
+B.S. & M.S. in Computer Science     Expected Graduation, June 2026 
+o GPA: 91.82 /4.00, Principal Honor Roll  
+ 
+EXPERIENCE      
+Emerging Leaders in Technology and Engineering (ELiTE)    New York, New York  
+Software Development Engineering Intern    November 2022 –Present  
+● Acquiring Python proficiency for personalized designs, animations, games, and dynamic visualizations   
+● Learning C++ in Arduino for an expanded skill set beyond conventional programming  
+Columbia Engineering SHAPE                                                                                                           New York, New 
+York  
+Student                                                                         July 2023 – Aug 20 23  
+● Gained core knowledge in Python with real -world applications for games like Minesweeper  
+● Created a 3D print design with SolidWorks  
+All-Star Code     Remote  
+Student     July 2023 –Aug 2023  
+● Participated in a Summer Intensive Program for comprehensive tech education  
+● I learned HTML, CSS, and JS; mastering p5.js for Javascript.  
+● Developed a healthcare app with API integration for self -diagnosis, showcasing practical application skills  
+Code Nation                                                                                                           New York, New York  
+Student                                                                        Oct 2023– Present  
+● Built a Playlist that took in the link and names of the video and artist and put it into a box, where users later can go 
+back and press on the link and personal portfolio where I added information about myself and my different projects  
+ 
+PROJECTS      
+Facial Recognition Attendance System    New York, New York  
+Lead     Dec 2023 – Feb 2024 
+● Utilizes OpenCV, NumPy, and face_recognition libraries  
+●  Captures video frames and detects faces  
+● Compares detected faces with known individuals  
+● Marks attendance based on recognition  
+Artify - Image Generator    New York , New York  
+Lead     Feb 2024  
+● HTML, CSS, and JavaScript utilized  
+● Simple interface for text -based image generation  
+● Users input text and click a button  
+● The application generates an image using a placeholder image API  
+● The generated image is displayed below the input field  
+Tweet     New York, New York   
+ Lead     Sept 2023  
+●  Captures video frames and detects faces  
+● Compares detected faces with known individuals  
+● Marks attendance based on recognition  
+FitTrack     New York, New York  
+Lead     Feb 2024  
+● Utilizes HTML, CSS, and JavaScript for inputting workout data  
+● Stores data via local storage and displays it on a separate page, showcasing practical applications in the health -tech 
+intersection  
+ 
+ 
+ACTIVITIES AND LEADERSHIP     
+ 
+Computer Science Club   New York , New York  
+President                          Dec 2022 – Current  
+● Leading and teaching Python to high schoolers, showcasing leadership and educational skills  
+SKILLS      
+Programming:  Java, Python, JavaScript, HTML/CSS, C++  
+Tools:  VS Code, PyCharm , Git, Git Hub  

@@ -5,7 +5,8 @@ import joblib
 # Sample training data (resumes and job categories)
 data = [
     ("Python, machine learning, deep learning", "AI Engineer"),
-    ("JavaScript, React, web development", "Frontend Developer"),
+    ("JavaScript, React, HTML, CSS, web development", "Frontend Developer"),
+    ("HTML, CSS, JavaScript, jQuery, Bootstrap", "Web Designer"),
     ("Linux, networking, cloud services", "DevOps Engineer"),
     ("Sales, CRM, negotiation", "Sales Manager")
 ]
